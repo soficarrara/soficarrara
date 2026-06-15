@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Banner/Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sofia%20Carrara&fontSize=60&fontAlignY=35&desc=Aluna%20da%20Rede%20Estadual%20do%20Paraná&descAlignY=55&animation=fadeIn" width="100%"/>
+  <!-- Banner/Header com gradiente rosa e roxo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sofia%20Carrara&fontSize=60&fontAlignY=35&desc=Aluna%20da%20Rede%20Estadual%20do%20Paraná&descAlignY=55&animation=fadeIn&color=ff69b4,da70d6,9370db&fontColor=ffffff" width="100%"/>
   
   <!-- Contador de visitas -->
   <img src="https://komarev.com/ghpvc/?username=sofiacarrara&color=ff69b4&style=for-the-badge&label=💜+VISUALIZAÇÕES+DO+PERFIL+🌸" alt="Contador de visitas"/>
@@ -20,7 +20,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-<tr>
+</td>
   <tr>
     <td width="60%" style="background: linear-gradient(135deg, #fff0f5, #f3e8ff); border-radius: 20px; padding: 20px;">
       <ul>
@@ -34,7 +34,7 @@
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/1995/1995572.png" width="120" alt="Menina estudando"/>
     </td>
-  </table>
+  </tr>
 </table>
 
 ---
@@ -134,6 +134,7 @@
   
   <br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+  <!-- Footer com gradiente rosa e roxo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=9370db,da70d6,ff69b4" width="100%"/>
   
 </div>
