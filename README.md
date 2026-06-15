@@ -1,19 +1,9 @@
+<!-- BANNER HEADER PERSONALIZADO -->
 <div align="center">
-  
-  <!-- Banner/Header com gradiente rosa e roxo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sofia%20Carrara&fontSize=60&fontAlignY=35&desc=Aluna%20da%20Rede%20Estadual%20do%20Paraná&descAlignY=55&animation=fadeIn&color=ff69b4,da70d6,9370db&fontColor=ffffff" width="100%"/>
-  
-  <!-- Contador de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=sofiacarrara&color=ff69b4&style=for-the-badge&label=💜+VISUALIZAÇÕES+DO+PERFIL+🌸" alt="Contador de visitas"/>
-  
-  <!-- Frase motivacional -->
-  <h3>🌸 ✨ "Cada linha de código é um novo aprendizado!" ✨ 💜</h3>
-  
-  <br/>
-  
-  <!-- GIF animado profissional e divertido -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Garota programando"/>
-  
+  <div style="background: linear-gradient(135deg, #ff69b4 0%, #c026d3 50%, #dda0dd 100%); padding: 60px 20px; border-radius: 0 0 30px 30px; margin-bottom: 30px;">
+    <h1 style="color: white; font-size: 60px; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">✨ Sofia Carrara ✨</h1>
+    <p style="color: #fff0f5; font-size: 20px; margin: 10px 0 0;">Aluna da Rede Estadual do Paraná</p>
+  </div>
 </div>
 
 ---
