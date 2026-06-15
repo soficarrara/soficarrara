@@ -1,16 +1,17 @@
 <div align="center">
   
-  <!-- Banner/Header com suas cores -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sofia%20Carrara&fontSize=60&fontAlignY=35&desc=Aluna%20da%20Rede%20Estadual%20do%20Paraná&descAlignY=55&animation=fadeIn&color=ff69b4,c026d3,dda0dd&fontColor=ffffff" width="100%"/>
+  <!-- Banner/Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sofia%20Carrara&fontSize=60&fontAlignY=35&desc=Aluna%20da%20Rede%20Estadual%20do%20Paraná&descAlignY=55&animation=fadeIn" width="100%"/>
   
   <!-- Contador de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=sofiacarrara&color=ff69b4&style=for-the-badge&label=💗+VISUALIZAÇÕES+DO+PERFIL+💜" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=sofiacarrara&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Contador de visitas"/>
   
   <!-- Frase motivacional -->
-  <h3>🌸 ✨ "Cada linha de código é um novo aprendizado!" ✨ 💜</h3>
+  <h3>💜 ✨ "Cada linha de código é um novo aprendizado!" ✨ 💜</h3>
   
   <br/>
   
+  <!-- GIF animado profissional e divertido -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Garota programando"/>
   
 </div>
@@ -19,12 +20,12 @@
 
 ## 👩‍💻 Sobre Mim
 
-<tr>
+<table>
   <tr>
-    <td width="60%" style="background: #fff0f5; border-radius: 20px; padding: 20px;">
+    <td width="60%">
       <ul>
-        <li>🎀 <strong>Olá!</strong> Meu nome é <strong style="color:#c026d3;">Sofia</strong>, tenho muito entusiasmo por tecnologia e programação!</li>
-        <li>🏫📚 Sou aluna da <strong style="color:#c026d3;">Rede Estadual do Paraná</strong> e estou descobrindo o mundo da programação.</li>
+        <li>🎀 <strong>Olá!</strong> Meu nome é <strong>Sofia</strong>, tenho muito entusiasmo por tecnologia e programação!</li>
+        <li🏫📚 Sou aluna da <strong>Rede Estadual do Paraná</strong> e estou descobrindo o mundo da programação.</li>
         <li>🎯 <strong>Meu objetivo:</strong> Aprender novas linguagens e criar projetos incríveis que ajudem outras pessoas.</li>
         <li>🌟 <strong>Nível atual:</strong> Exploradora Digital 👩‍🚀 - cada dia aprendo algo novo!</li>
         <li>💡 Adoro resolver problemas e transformar ideias em realidade com código.</li>
@@ -68,9 +69,9 @@
   
   | | |
   |---|---|
-  | <img src="https://github-readme-stats.vercel.app/api?username=sofiacarrara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=ff69b4&text_color=dda0dd&ring=ff69b4"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiacarrara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&text_color=dda0dd"/> |
+  | <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC" width="100%"/> |
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiacarrara&theme=radical&hide_border=true&background=0D1117&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=dda0dd&dates=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=C084FC&currStreakNum=FFFFFF&sideNums=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&dates=FFFFFF"/>
   
 </div>
 
@@ -80,13 +81,11 @@
 
 <div align="center">
   
-  | Objetivo | Status |
-  |----------|--------|
-  | ✅ Criar meu primeiro site completo (HTML + CSS) | 🔄 Em andamento |
-  | ⬜ Aprender JavaScript e fazer projetos interativos | 📅 Em breve |
-  | ⬜ Participar de uma maratona de programação | 📅 Em breve |
-  | ⬜ Subir 5 projetos no GitHub | 📅 Em breve |
-  | ⬜ Ajudar colegas com dúvidas de programação | 🌟 Meta pessoal |
+  ✅ Criar meu primeiro site completo (HTML + CSS)  
+  ✅ Aprender JavaScript e fazer projetos interativos  
+  ✅ Participar de uma maratona de programação  
+  ✅ Subir 5 projetos no GitHub  
+  ✅ Ajudar colegas com dúvidas de programação  
   
 </div>
 
@@ -98,6 +97,13 @@
   
   *Em breve! Estou criando meus primeiros projetos e em breve eles aparecerão aqui* 🚧
   
+  <!-- Quando tiver projetos, descomente e edite:
+  | Projeto | Descrição | Tecnologias |
+  |---------|-----------|--------------|
+  | [Meu Primeiro Site](link) | Um site sobre meus hobbies | HTML, CSS |
+  | [Jogo no Scratch](link) | Um jogo divertido que criei | Scratch |
+  -->
+  
 </div>
 
 ---
@@ -106,13 +112,15 @@
 
 <div align="center">
   
+  ### Fique à vontade para me enviar uma mensagem ou pedir ajuda!
+  
   <a href="mailto:sofia.carrara@escola.pr.gov.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
   <br/><br/>
   
-  <img src="https://media.tenor.com/mMgEEN1tXPlUAAAAd/coding-girl.gif" width="300" alt="Menina programando"/>
+  <img src="https://media.tenor.com/mMgEEN1tXPlUAAAAd/coding-girl.gif" width="300" alt="Menina programando divertida"/>
   
 </div>
 
@@ -120,9 +128,10 @@
 
 <div align="center">
   
-  <h3>💜🌸 "O conhecimento é a única coisa que ninguém pode tirar de você. Estude, explore, crie!" 🌸💜</h3>
+  ### 💜 "O conhecimento é a única coisa que ninguém pode tirar de você. Estude, explore, crie!" 💜
   
-  <!-- Footer com gradiente invertido -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=dda0dd,c026d3,ff69b4" width="100%"/>
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=12"/>
   
 </div>
